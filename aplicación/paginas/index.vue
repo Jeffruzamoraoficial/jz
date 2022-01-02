@@ -6,7 +6,7 @@
 
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
-
+Holaaaaaa
           <form
             v-else
             @submit.prevent="handleSubmit"
